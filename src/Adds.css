@@ -1,0 +1,8 @@
+.images > img{
+    display: flex;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    cursor: pointer;
+}
