@@ -34,7 +34,7 @@ function Header() {
                 </div>
             </div>
             <div className="header_middle">
-                <a>Charts</a>
+                <a><Link to="/Charts">Charts</Link></a>
                 <a><Link to="/Trade">Trade</Link></a>
                 <a>Multi Chart</a>
                 <a>About</a>
@@ -55,3 +55,5 @@ function Header() {
 }
 
 export default Header
+
+

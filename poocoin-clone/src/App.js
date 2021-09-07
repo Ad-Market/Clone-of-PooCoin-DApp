@@ -4,6 +4,7 @@ import Header from './Header';
 import {Route, Link} from "react-router-dom";
 import Trade from "./Trade"
 import Tools from './Tools';
+import Charts from './Charts';
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
       <Header />
       <Route exact path="/Trade" component={Trade} />
       <Route exact path="/Tools" component={Tools} />
+      <Route exact path="/Charts" component={Charts} />
+      
     </div>
   );
 }
