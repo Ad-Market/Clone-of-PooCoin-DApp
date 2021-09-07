@@ -47,7 +47,7 @@ function Header() {
             </div>
             <div className="header_right">
                 <button className="button">
-                    connect
+                    Connect
                 </button>
             </div>
         </div>
