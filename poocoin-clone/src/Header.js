@@ -12,9 +12,11 @@ function Header() {
                     />  
                     <div className="title">
                         <span>
-                            PooCoin
-                            <br/>
-                             Charts
+                            <Link to="/Charts"> 
+                                PooCoin
+                                <br/>
+                                Charts
+                            </Link>
                         </span>
                     </div>
                 </div>
