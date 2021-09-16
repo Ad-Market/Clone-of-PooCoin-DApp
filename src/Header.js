@@ -42,7 +42,7 @@ function Header() {
                 <a>About</a>
                 <a><Link to="/Tools">Tools</Link></a>
                 <a>Premium</a>
-                <a>Advertise</a>
+                <a><Link to="/ad">Advertise</Link></a>
                 <a href="https://t.me/Poocoin_Pricebot">
                     <a>Free Price Bot</a>
                 </a>

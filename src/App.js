@@ -5,6 +5,7 @@ import {Route, Link} from "react-router-dom";
 import Trade from "./Trade"
 import Tools from './Tools';
 import Charts from './Charts';
+import ad from './ad';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Route exact path="/Trade" component={Trade} />
       <Route exact path="/Tools" component={Tools} />
       <Route exact path="/Charts" component={Charts} />
+      <Route exact path="/ad" component={ad} />
     </div>
   );
 }
