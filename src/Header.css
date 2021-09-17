@@ -60,12 +60,18 @@
     text-decoration: underline;
 }
 .header_centerright{
-    display: flex;
-    color:green; 
+    display: flex; 
     margin-top: auto;
     margin-bottom: auto;
     padding-left: 10px;
     cursor: pointer;
+}
+.header_centerright span {
+    color:green;
+    padding-left: .25rem!important;
+    box-sizing: border-box;
+    font-size: .875rem;
+    text-align: center!important;
 }
 .header_centerright > img {
     height: 18px;
@@ -78,6 +84,10 @@
     background-color: #fff!important;
     border: 1px solid #262626!important;
     line-height: 1;
+    vertical-align: middle;
+}
+.header_centerright a {
+    height: 25px;
     vertical-align: middle;
 }
 .header_centerright :hover{
