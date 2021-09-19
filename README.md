@@ -24,7 +24,7 @@
 ### Team Members:  
 - Medhashakti Khatri ([Github](https://github.com/medhhaa ) ,[LinkedIn]( https://www.linkedin.com/in/medha-khatri-354241200/ ))
 - Janice Johnson C. ([Github]( https://github.com/Janice-Johnson07 ) ,[LinkedIn]( https://www.linkedin.com/in/janice-johnson-b09302221/ ))
-- Nimisha George ([Github](  https://github.com/NimishaGeorge18 ) ,[LinkedIn]( ))
+- Nimisha George ([Github](  https://github.com/NimishaGeorge18 ) ,[LinkedIn]( https://www.linkedin.com/in/nimisha-george-518990195/ ))
 - Atharva Chiplunkar ([Github](  https://github.com/AtharvaChiplunkar12  ) ,[LinkedIn]( https://www.linkedin.com/in/atharva-chiplunkar-873b75211 ))
 - Swarangi Bane ([Github]( https://github.com/Swara2607 ) ,[LinkedIn]( https://www.linkedin.com/in/swarangi-bane-26s ))
 
