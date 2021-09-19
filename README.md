@@ -14,11 +14,11 @@
 
 
 ### Steps to run this code on your system:
-- **i.Download the zip file in your device.**
-- **ii.Extract the zip file on your device.**
-- **iii.Open the code with the help of any text editor for example VSCode.**
-- **iv. Make sure Nodejs is downloaded in your system.**
-- **v.Open the terminal and write the following commands:  i npm install <- this will install all the dependencies needed.ii npm start <- this should open the browser in your default windows.**
+- **Download the zip file in your device.**
+- **Extract the zip file on your device.**
+- **Open the code with the help of any text editor for example VSCode.**
+- **Make sure Nodejs is downloaded in your system.**
+- **Open the terminal and write the following commands:  i npm install <- this will install all the dependencies needed.ii npm start <- this should open the browser in your default windows.**
 
 
 ### Team Members:  
