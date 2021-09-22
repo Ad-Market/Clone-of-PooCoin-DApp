@@ -8,8 +8,8 @@
 
 ### Technologies used: 
 - **React** 
-- **Html** 
-- **Css** 
+- **HTML** 
+- **CSS** 
 - **JavaScript** 
 
 
